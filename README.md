@@ -17,7 +17,7 @@ You can go [here](http://www.python.org/download/) to download the version of Py
 
 ### Running
 
-Just open the 'FP_2016-17_projecto1.py' file using the IDE and run the tests in the command line.
+Just open the 'FP_2016-17_projecto1.py' file using the IDE.
 
 ## Authors
 
